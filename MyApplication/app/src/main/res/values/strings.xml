@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnhancedTodoList</string>
+    <string name="checked">Done</string>
+    <string-array name="choice_array">
+        <item>Work</item>
+        <item>School</item>
+        <item>Home</item>
+        <item>Appointments</item>
+    </string-array>
+</resources>
